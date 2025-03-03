@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 opencv-python==4.11.0.86
 mediapipeline
+=======
+>>>>>>> bddf408 (Added second project)
